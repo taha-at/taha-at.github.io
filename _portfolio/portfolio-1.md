@@ -17,7 +17,7 @@ This project explores the fundamental principles of Maximum Likelihood Estimatio
 - **Advanced Optimality Proofs:** Mathematical verification that both estimators hit the absolute theoretical minimum variance bound ($\text{Cov}(\hat{\beta}) = \mathcal{I}(\beta)^{-1}$) and compress $N$-dimensional data into $p+1$ scalar sufficient statistics without any loss of information.
 
 ## Code
-- The code is available on <a href="[https://github.com/taha-at/mle-linear-regression-analysis](https://github.com/taha-at/MLE-Estimation-and-Estimator-Distribution-in-Linear-Regression)">GitHub</a>
+- The code is available on <a href="https://github.com/taha-at/mle-linear-regression-analysis">GitHub</a>
 
 ## Report
 <iframe src="/files/CIE457_MLE_Project.pdf" width="100%" height="900px" style="border:none;"> </iframe>
