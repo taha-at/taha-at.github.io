@@ -16,7 +16,7 @@ This project focuses on the implementation and structural optimization of a cust
 - **Empirical Co-design Results:** Identification of optimal global baseline variables featuring an $8\times8$ pixel pixel transformation block size, a baseline scaling multiplier of $\sigma = 1.0$, and range-restricted adaptive arithmetic serialization tables.
 
 ## Code
-- The code is available on <a href="[https://github.com/ta/video-compression-codec-analysis](https://github.com/taha-at/Design-and-Analysis-of-a-Video-Compression-System)">GitHub</a>
+- The code is available on <a href="https://github.com/ta/video-compression-codec-analysis">GitHub</a>
 
 ## Report
 <iframe src="/files/Video_compression_standard.pdf" width="100%" height="900px" style="border:none;"> </iframe>
