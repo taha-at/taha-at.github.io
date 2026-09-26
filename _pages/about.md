@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I’m **Abdelrahman Taha**, a junior undergraduate student and an aspiring computational neuroscientist. I’m driven by a desire to uncover the mysteries of the brain and explore the fundamental principles of how it works.
+Hi there! I’m **Abdelrahman Taha**, a senior undergraduate student and an aspiring computational neuroscientist. I’m driven by a desire to uncover the mysteries of the brain and explore the fundamental principles of how it works.
 
 
 
