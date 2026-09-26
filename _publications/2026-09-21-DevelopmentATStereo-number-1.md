@@ -17,8 +17,6 @@ In frame-based stereotaxy, planning software must map image-derived coordinates 
 
 **Abdelwahab–Taha Stereotactic (ATStereo)** is a source-available surgical planning toolkit built directly as a [3D Slicer](https://www.slicer.org/) extension and tailored specifically to the geometric configuration of the Abdelwahab stereotactic frame.
 
-<Image src="image_agent_tag_16035675017575651172" alt="Stereotactic frame trajectory planning in 3D Slicer" caption="Frame-based stereotactic trajectory planning" />
-
 ---
 
 ## Key Features
